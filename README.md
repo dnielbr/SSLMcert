@@ -1,6 +1,5 @@
 # SSLMkcert
-
-🔒 SSL com Mkcert e Nginx, guia completo para instalar o Mkcert e configurar certificados SSL locais para o Nginx.
+SSL com Mkcert e Nginx, guia completo para instalar o Mkcert e configurar certificados SSL locais para o Nginx.
 Ideal para ambientes de desenvolvimento, permitindo acesso via HTTPS sem avisos de certificado inválido no navegador.
 ---
 ## 1. instalar mkcert
